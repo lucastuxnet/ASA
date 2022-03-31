@@ -7,7 +7,7 @@ Foi implementado um banco de dados(postgress) e um container com o sistema opera
 
 ### Para iniciar o projeto
 
-docker build -t flask_app:prod &&
+docker build -t flask_app:prod . &&
 docker-compose up --build
 
 ### Sistema de venda de passagens aéreas - ASA

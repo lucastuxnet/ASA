@@ -5,6 +5,11 @@ Projeto não finalizado.
 
 Foi implementado um banco de dados(postgress) e um container com o sistema operacional Linux Ubuntu, isso irá permitir acesso às chamadas dos endpoints através da porta 5000
 
+### Para iniciar o projeto
+
+docker build -t flask_app:prod 
+docker-compose up --build
+
 ### Sistema de venda de passagens aéreas - ASA
 
 Serviços: 

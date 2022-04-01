@@ -3,7 +3,7 @@
 Projeto criado para a disciplina de ASA.
 Projeto não finalizado.
 
-Foi implementado um banco de dados(postgress) e um container com o sistema operacional Linux Ubuntu, isso irá permitir acesso às chamadas dos endpoints através da porta 5000
+Foi implementado um banco de dados(postgress) e um container com o sistema operacional Linux Mint, isso irá permitir acesso às chamadas dos endpoints através da porta 5000
 
 ### Para iniciar o projeto
 
